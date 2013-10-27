@@ -1,2 +1,2 @@
 Steps
-1) - Create a two models 'Users'  and 'Posts'
+1) - Create a two models 'Users'  and 'Posts'. This is done by doing rails scaffold table attribute:datatype
